@@ -6,3 +6,8 @@
 #The client should provide the file path of the file to be transferred.
 #The server should specify the directory where the received file will be saved.
 #Ensure error handling for file I/O operations, socket connections, and pickling/unpickling.
+
+// This question has three files 
+1. abc.txt
+2. q1_client.cpp
+3. q1_server.cpp
